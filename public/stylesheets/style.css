@@ -1,0 +1,19 @@
+.nav-bar {
+    background-color: black;
+    color: white;
+}
+.nav-bar a {
+    color: white;
+    font-size: 2em;
+    text-decoration: none;
+}
+.nav-bar-ul {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-bar-ul li {
+    list-style-type: none;
+    text-align: center;
+  }
